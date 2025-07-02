@@ -15,9 +15,9 @@ Email: 1834295917@163.com
 * 2023 🎉 6D Pose Tracking: [FC-TrackNet: Fast Convergence Net for 6D Pose Tracking in Synthetic Domains](https://doi.org/10.1609/aaai.v37i13.27077) in **AAAI23**
 
 ## Open Work
-|Time                   | Task                 | Model      |
-|---------------------- |----------------------|---------------|
-|2025| Table Structure Recognition |[An effective table structure recognition model and dataset](https://github.com/caipeng328/wired_table_rec)|
-|2025| OCR Detection and Handwritten Region Awareness | Coming Soon |
-|2025| Lightweight Facial Landmark Detection | Coming Soon |
-|2025| Text Translation from Captured Images | Coming Soon |
+|Time                   | Task                 | Model         |   Overview    |
+|---------------------- |----------------------|---------------|---------------|
+|2025| Table Structure Recognition |[An effective table structure recognition model and dataset](https://github.com/caipeng328/wired_table_rec)| We provide an efficient table structure detection model with strong capabilities in handling complex cell merging and locating cell positions. It supports output in formats like HTML, JSON, and other custom structures.|
+|2025| OCR Detection and Handwritten Region Awareness | Coming Soon | For specific needs, effective identification of handwritten regions is required. To this end, we provide a model that outputs both OCR detection boxes and a handwriting probability map. The training scripts and dataset will also be open-sourced.|
+|2025| Lightweight Facial Landmark Detection | Coming Soon |We provide a lightweight facial landmark model under 5MB that outputs 106 keypoints. It is trained on six public datasets with additional alignment and loss balancing to enable joint training across datasets of varying sizes. |
+|2025| Text Translation from Captured Images | Coming Soon | This work extracts text from captured images and restores the translated results back onto the original image, demonstrating excellent visual quality.|
