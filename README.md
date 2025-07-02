@@ -2,7 +2,7 @@
 
 <br>I'm a Computer Vision Engineer.<br>  
 
-## 📣 📣 📣 Recruitment:
+## About Me:
 
 Main Research Areas:   
 **Intelligent Document/3D Vision/Multimodal Large Language Models**  
