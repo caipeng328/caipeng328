@@ -4,7 +4,6 @@
 Main Research Areas 
 **Intelligent Document/3D Vision/Multimodal Large Language Models**  
 Base: **BeiJing**   
-Email: 1834295917@163.com 
 
 ## Papers
 * 2025 🎉 Document Image Rectification: [ForCenNet: Foreground-Centric Network for Document Image Rectification]() in **ICCV25**
