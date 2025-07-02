@@ -1,9 +1,6 @@
-## Hi there👋
-
-<br>I'm a Computer Vision Engineer.<br>  
 
 ## About Me:
-
+<br>I'm a Computer Vision Engineer.<br>  
 Main Research Areas 
 **Intelligent Document/3D Vision/Multimodal Large Language Models**  
 Base: **BeiJing**   
