@@ -4,7 +4,7 @@
 
 ## About Me:
 
-Main Research Areas:   
+Main Research Areas 
 **Intelligent Document/3D Vision/Multimodal Large Language Models**  
 Base: **BeiJing**   
 Email: 1834295917@163.com 
