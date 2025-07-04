@@ -2,7 +2,7 @@
 ## About Me:
 <br>I'm a Computer Vision Engineer.<br>  
 Main Research Areas 
-**Intelligent Document/3D Vision/Multimodal Large Language Models**  
+**Intelligent Document/Document parse/3D Vision/Multimodal Large Language Models**  
 Base: **BeiJing**   
 
 ## Papers
