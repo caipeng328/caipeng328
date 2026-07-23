@@ -13,7 +13,7 @@ Base: **BeiJing**
 ## Open Work
 |Time                   | Task                 | Model         |   Overview    |   Case        | 
 |---------------------- |----------------------|---------------|---------------|---------------|
-|2025| Document Parsing | StarAGI-OCR: Unified Document Parsing for Digital and Camera-Captured Documents | coming soon | |
+|2025| Document Parsing | [StarAGI-OCR: Unified Document Parsing for Digital and Camera-Captured Documents](https://github.com/caipeng328/StarAGI-OCR) | coming soon | |
 |2025| Table Structure Recognition |[An effective table structure recognition model and dataset](https://github.com/caipeng328/wired_table_rec)| We provide an efficient table structure detection model that effectively handles complex cell merging and cell positioning. It supports output in HTML, JSON, and other custom formats.| ![Demo](./figures/table_rec_lp.gif)| 
 |2025| OCR Detection and Handwritten Region Awareness | [Handwritten Awareness and Detection](https://github.com/caipeng328/Handwritten-Awareness-and-Detection/tree/main) | For specific needs, accurate identification of handwritten regions is essential. We offer a model that outputs both OCR detection boxes and a handwriting probability map. The training scripts and dataset will be open-sourced.| ![Demo](./figures/ocr_lp.gif) |
 |2025| Lightweight Facial Landmark Detection | [Lite Face Keypoint detection](https://github.com/caipeng328/lite_face_kyepoint) | We provide a lightweight facial landmark model under 5MB that outputs 106 keypoints. It is trained on six public datasets with enhanced alignment and loss balancing to support joint training across datasets of different scales. |![Demo](./figures/face_kps_output_lp.gif) |
