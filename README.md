@@ -1,9 +1,13 @@
 
 ## About Me:
-<br>I'm a Computer Vision Engineer.<br>  
-Main Research Areas 
-**Intelligent Document/Document parse/3D Vision/Multimodal Large Language Models**  
-Base: **BeiJing**   
+
+<br>I'm a Computer Vision Engineer.<br>
+Main Research Areas: **Intelligent Document/Document Parsing/3D Vision/Multimodal Large Language Models**
+Base: **Beijing**
+
+<br>I'm **actively looking for interns on a long-term basis**.
+If you're interested, please send your resume to **[caipeng328@outlook.com](mailto:caipeng328@outlook.com)**.
+
 
 ## Papers
 * 2026 🎉 [TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://github.com/caipeng328/NaviDC-OCR). 
